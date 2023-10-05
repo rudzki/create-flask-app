@@ -16,7 +16,7 @@ Before using this script, ensure you have the following prerequisites installed 
 1. **Clone this repository** to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/create-flask-app.git
+    git clone https://github.com/rudzki/create-flask-app.git
     cd create-flask-app
    
 2. **Make the script executable**:
